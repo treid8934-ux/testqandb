@@ -1,0 +1,2 @@
+Move your existing dividends.json into this "data" folder (it used to sit next to index.html).
+You can delete this note afterwards.
